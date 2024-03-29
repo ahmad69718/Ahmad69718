@@ -1,9 +1,8 @@
+![logo](https://github.com/Ahmad69718/Ahmad69718/blob/main/Background.jpeg)
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">Computer Science & Engineering</h3>
-
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad69718&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad69718" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad69718" alt="ahmad69718" /></a> </p>
 
 - 🤝 I’m looking for help with **Web Development**
 
@@ -25,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad69718&show_icons=true&locale=en&layout=compact" alt="ahmad69718" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad69718&show_icons=true&locale=en" alt="ahmad69718" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad69718&" alt="ahmad69718" /></p>
